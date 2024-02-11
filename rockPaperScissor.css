@@ -1,0 +1,41 @@
+#gameName{
+    color: red;
+    
+    font-style: oblique;
+}
+body{
+    background-color: beige;
+}
+.box{
+    background-color: black;
+    width: 700px;
+    height: 60px;
+    text-align: center;
+    
+    font-size: x-large;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.circle{
+    height: 100px;
+  width: 100px;
+  background-color: beige;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 120px;
+  border: none;
+  overflow: hidden;
+}
+.score{
+    display: inline;
+    margin-right: 200px;
+    align-items: center;
+}
+#result{
+    height: 40px;
+    width: 500px;
+    background-color: green;
+    align-items: center;
+    margin-right: 50%;
+}
+
